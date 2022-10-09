@@ -10,3 +10,5 @@ feature/signup
     .
     .
     -> done successfully...
+
+# Released the v1.0.0 for the hotfix app
