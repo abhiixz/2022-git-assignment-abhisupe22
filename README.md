@@ -4,3 +4,7 @@
     -> Fixed all.
 
 Added Readme and updated app
+
+Documentation of hotfix v1.0.0
+...
+...
