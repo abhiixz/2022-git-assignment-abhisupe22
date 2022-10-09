@@ -7,3 +7,6 @@ Added Readme and updated app
 
 feature/signup
     -> added signup feature 
+    .
+    .
+    -> done successfully...
